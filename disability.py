@@ -60,6 +60,7 @@ data['Disabled']=data['Disabled_calculation'].apply(lambda x: True if x<14 else 
 #objective statement
 print('\n Project Overview:\n')
 print('This project performs some exploratory data analysis to demonstrate skills needed for data analysis in Python by importing, manipulating, analyzing, and visualizing disability data in the US.  The data for this exercise comes from the 2011-2015 American Community Survey (ACS) 5-year Public Use Microdata Samples (PUMS).  ')
+print('\nPlease see the README for more information.')
 print('\ndata.head()\n')
 print(data.head())
 #filter for data on the disabled population only
