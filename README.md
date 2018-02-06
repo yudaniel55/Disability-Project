@@ -4,7 +4,7 @@ This project performs some exploratory data analysis to demonstrate skills neede
 
 "Disability" for this project is defined to be "difficulty" with regular physical activities as asked on the survey.
 
-Some scalability has also been built into the code.  Additional state data files can be loaded by simply dropping them into the same directory and using a naming convention that begins with 'ss'.  The column data to be imported can be changed by editing the 'Dictionaries' Excel file.  
+Some scalability has also been built into the code.  Additional state data files can be loaded by simply dropping them into the same directory and using a naming convention that begins with 'truncss'.  The column data to be imported can be changed by editing the 'Dictionaries' Excel file.  
 
 The 'Dictionaries' Excel file has also been used to store the relevant information in the ACS Data Dictionary.  The key translating the relevant survey data has been copied into the Excel file to be read into Python. 
 
