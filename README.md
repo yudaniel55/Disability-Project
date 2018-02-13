@@ -9,3 +9,7 @@ Some scalability has also been built into the code.  Additional state data files
 The 'Dictionaries' Excel file has also been used to store the relevant information in the ACS Data Dictionary.  The key translating the relevant survey data has been copied into the Excel file to be read into Python. 
 
 https://www.census.gov/programs-surveys/acs/
+
+** 2/12/18
+Planning to expand this project and tie it together with Tableau.  
+Objective: Use Python to munge and analyze the full 2011-2015 ACS dataset by utilizing chunksize processing.  Generate a flat file with data from all states within the US.  Use the flat file to visualize data using Tableau.
